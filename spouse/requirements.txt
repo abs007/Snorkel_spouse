@@ -1,2 +1,10 @@
+snorkel==0.9.5
+
+#### If you're unable to install snorkel via the anaconda prompt, then download the
+#### latest version from [https://anaconda.org/conda-forge/snorkel/files]
+#### and then manually extract & paste the files in the "C:\Users\UserName\anaconda3\pkgs"
+#### sub-folder.
+
+pandas==1.4.1
 matplotlib==3.1.1
 tensorflow==1.14.0
